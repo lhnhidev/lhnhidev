@@ -54,43 +54,50 @@
   </tr>
 </table>
 
-<!-- ## 💻 Tech Stack
+## Work Experience
 
-  ### Programming Languages
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### Freelance Web Developer (Remote)
+*Aug 2025 – May 2026*
 
-  ### Frontend
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookformlogoColor=white)
-  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-  ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0)
-  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+<!-- <div>
+Thiết kế và phát triển full-stack ứng dụng Quản lý Thi đua cho trường học sử dụng React.js (Frontend) và Node.js/Express + MongoDB (Backend).
+Xây dựng module cốt lõi: quản lý phiếu thi đua, quy định chấm điểm, tự động cập nhật điểm lớp/học sinh theo thời gian thực.
+Triển khai hệ thống multi-tenant (multi-organization) và phân quyền người dùng chi tiết (Role-based Access Control).
+Tích hợp các tính năng nâng cao: Real-time với Socket.io, Xếp hạng thi đua, Social feed, Chatbot AI (Google Generative AI), và Export Excel.
+Thiết kế database schema, API RESTful và tối ưu hiệu năng cho việc chấm điểm & theo dõi thành tích.
+Tham gia xây dựng giao diện responsive bằng TailwindCSS + Ant Design.
+</div> -->
 
-  ### Backend
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+**1. Competition management app for students**
+- **Description**: This is a competition management software solution for schools, designed to digitise traditional competition scoring processes. It helps teachers easily record achievements, monitor class scores in real time, and view rankings, whilst also offering community features and an AI chatbot to facilitate quick data retrieval.
+- **Responsibilities**: Developed the user and admin interfaces, building core features including competition form management, marking guidelines, and class score updates. Contributed to the development of user permission settings (admin/standard user/red star). Integrated a chatbot using the Google Gemini API and real-time communication via Socket.
+- **Tech Stack**: `React`, `Typescript`, `Tailwind CSS`, `Nodejs`, `Express`, `Mongo Atlas`, `Socket`, `Ant Design`. `Cloudinary`, `Nodemailer`, `Google Generative AI`.
+- **Link repo:**: [here](https://github.com/lhnhidev/app-quan-ly-thi-dua)
 
-  ### Database
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**2. MathSpeed**
+<!-- <div>
+  Xây dựng Hệ thống & Xác thực: Thiết kế hệ thống phân quyền 2 cấp (User/Admin), triển khai cơ chế xác thực bảo mật với JWT lưu trong HTTP-only cookie.
 
-  ### Other Skill
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-  ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) -->
+  Phát triển Tính năng Học tập & Luyện đề: * Xây dựng luồng học lý thuyết theo cấu trúc 32 chủ đề toán học phân cấp và tính năng luyện đề trắc nghiệm/tự luận ngẫu nhiên (20 câu từ ngân hàng đề).
 
+  Tích hợp tính năng đếm ngược thời gian làm bài, chấm điểm tự động, hiển thị đáp án/giải thích chi tiết bằng HTML và lưu lịch sử làm bài.
+
+  Tích hợp hiệu ứng âm thanh phản hồi đúng/sai để tối ưu trải nghiệm người dùng (UX).
+
+  Quản lý Tiến độ & Trang Admin: Xây dựng logic tự động cập nhật tiến độ học tập của người dùng; phát triển giao diện Admin quản lý toàn diện ngân hàng câu hỏi (CRUD) phân loại theo chủ đề và cấp độ.
+
+  Tối ưu hóa Hệ thống & Triển khai: * Xây dựng tính năng tự động seed dữ liệu câu hỏi từ file JSON vào cơ sở dữ liệu.
+
+  Cấu hình ứng dụng theo chuẩn PWA (Manifest & Service Worker) giúp cài đặt trực tiếp trên thiết bị di động và đóng gói phiên bản Android (.apk).
+</div> -->
+
+- **Description**: Math Speed is a platform for preparing for the maths exam for students moving from Year 9 to Year 10, offering a comprehensive range of features from theory lessons and timed multiple-choice practice tests to progress tracking.
+- **Responsibilities**: Develop the user interface and admin panel, and integrate APIs for functions including registration, login and CRUD operations. Integrate PWA to deploy the application on mobile devices.
+- **Tech Stack**: `HTML`, `Tailwind CSS`, `Javascript`, `Nodejs`, `Express`, `Mongo Atlas`.
+- **Link repo:**: [here](https://github.com/lhnhidev/math-speed-be)
+
+### 🏗️ Academic & Personla Projects
+I will update later
 
 ## 📊 GitHub Stats
 
