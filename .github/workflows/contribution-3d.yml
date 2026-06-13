@@ -1,0 +1,36 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  # Tự động chạy vào 0h mỗi đêm
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Tự động chạy ngay lập tức mỗi khi bạn push code mới lên nhánh main
+  push:
+    branches:
+      - main
+      
+  # Cho phép bạn chủ động bấm nút tự chạy thủ công bất cứ lúc nào
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      
+      # Con bot tiến hành quét commit và vẽ ảnh 3D
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
+      # Đẩy các file ảnh 3D vừa vẽ về lại kho lưu trữ của bạn
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A .
+          git commit -m "generated 3d contribution graph" || exit 0
+          git push
