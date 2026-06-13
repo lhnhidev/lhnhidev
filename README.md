@@ -10,7 +10,7 @@
 ## 🎓 Education
 | Curriculum | Achievement | Period |
 | :--- | :--- | :--- |
-| **Can Tho University** <br> *Software Engineering* | ![GPA](https://img.shields.io/badge/GPA-3.83%20%2F%204.0-blue?style=flat-square&logo=google-scholar&logoColor=white) | 2023 - 2027 (Expected) |
+| **Can Tho University** <br> *Software Engineering* | ![GPA](https://img.shields.io/badge/GPA-3.83%20%2F%204.0-4E2CCD?style=flat-square&logo=google-scholar&logoColor=white) | 2023 - 2027 (Expected) |
 
 ## 💻 Tech Stack
 
@@ -24,7 +24,7 @@
         <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
         <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
         <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query" />
-        <img src="https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0" alt="Mantine" />
+        <img src="https://img.shields.io/badge/Mantine-gray?style=for-the-badge&logo=Mantine&logoColor=339af0" alt="Mantine" />
       </p>
       <h4>Backend</h4>
       <p>
@@ -97,10 +97,10 @@
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=lhnhidev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.shion.dev/api?username=lhnhidev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=4E2CCD&icon_color=4E2CCD&text_color=ffffff&text_bold=false" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lhnhidev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" width="100%" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lhnhidev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=4E2CCD&text_color=ffffff&text_bold=false" alt="Top Langs" width="100%" />
     </td>
   </tr>
 </table>
@@ -116,6 +116,10 @@
   <a href="https://www.linkedin.com/in/nhi-l%C3%AA-021188324/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:lhnhi420@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div> 
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxvY3VwYWx6dHpzNW0zZHhreTF2bGh5eWFpaDYxcm5qYWpwMW1qYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N0DkbvN66TlyFMYRlD/giphy.gif" height="250" />
+</div>
 
 <div align="center">
   <p>✨Thank you for visiting — please contact me if you have a position that would be a good fit for me ✨</p>
