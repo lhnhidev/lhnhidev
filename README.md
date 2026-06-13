@@ -121,9 +121,6 @@ I will update later
   <img alt="3D Contributions" src="https://raw.githubusercontent.com/lhnhidev/lhnhidev/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
 </picture>
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lhnhidev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
 ## 🌐 Let's get connected:
 <div align="center">
   <a href="https://discord.gg/DgTA3Hk6EE"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
