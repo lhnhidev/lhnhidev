@@ -97,10 +97,10 @@
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=lhnhidev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=4E2CCD&icon_color=4E2CCD&text_color=ffffff&text_bold=false" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.shion.dev/api?username=lhnhidev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=4E2CCD&icon_color=4E2CCD&text_bold=false" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lhnhidev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=4E2CCD&text_color=ffffff&text_bold=false" alt="Top Langs" width="100%" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lhnhidev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=4E2CCD&text_bold=false" alt="Top Langs" width="100%" />
     </td>
   </tr>
 </table>
