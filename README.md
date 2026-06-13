@@ -105,6 +105,15 @@
   </tr>
 </table>
 
+## Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lhnhidev/lhnhidev/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lhnhidev/lhnhidev/main/profile-3d-contrib/profile-green-animate.svg" />
+  
+  <img alt="3D Contributions" src="https://raw.githubusercontent.com/lhnhidev/lhnhidev/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
+</picture>
+
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lhnhidev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
