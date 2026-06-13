@@ -54,9 +54,9 @@
   </tr>
 </table>
 
-## Work Experience
+## 💼 Work Experience
 
-### Freelance Web Developer (Remote)
+### 💻 Freelance Web Developer (Remote)
 *Aug 2025 – May 2026*
 
 <!-- <div>
