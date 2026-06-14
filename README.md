@@ -72,7 +72,7 @@ Tham gia xây dựng giao diện responsive bằng TailwindCSS + Ant Design.
 - **Description**: This is a competition management software solution for schools, designed to digitise traditional competition scoring processes. It helps teachers easily record achievements, monitor class scores in real time, and view rankings, whilst also offering community features and an AI chatbot to facilitate quick data retrieval.
 - **Responsibilities**: Developed the user and admin interfaces, building core features including competition form management, marking guidelines, and class score updates. Contributed to the development of user permission settings (admin/standard user/red star). Integrated a chatbot using the Google Gemini API and real-time communication via Socket.
 - **Tech Stack**: `React`, `Typescript`, `Tailwind CSS`, `Nodejs`, `Express`, `Mongo Atlas`, `Socket`, `Ant Design`. `Cloudinary`, `Nodemailer`, `Google Generative AI`.
-- **Link repo:**: [here](https://github.com/lhnhidev/app-quan-ly-thi-dua)
+- **Link repo**: [here](https://github.com/lhnhidev/app-quan-ly-thi-dua)
 
 **2. MathSpeed**
 <!-- <div>
@@ -94,7 +94,7 @@ Tham gia xây dựng giao diện responsive bằng TailwindCSS + Ant Design.
 - **Description**: Math Speed is a platform for preparing for the maths exam for students moving from Year 9 to Year 10, offering a comprehensive range of features from theory lessons and timed multiple-choice practice tests to progress tracking.
 - **Responsibilities**: Develop the user interface and admin panel, and integrate APIs for functions including registration, login and CRUD operations. Integrate PWA to deploy the application on mobile devices.
 - **Tech Stack**: `HTML`, `Tailwind CSS`, `Javascript`, `Nodejs`, `Express`, `Mongo Atlas`.
-- **Link repo:**: [here](https://github.com/lhnhidev/math-speed-be)
+- **Link repo**: [here](https://github.com/lhnhidev/math-speed-be)
 
 ### 🏗️ Academic & Personla Projects
 I will update later
@@ -112,7 +112,7 @@ I will update later
   </tr>
 </table>
 
-## Contribution
+## 🤝 Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lhnhidev/lhnhidev/main/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -121,7 +121,8 @@ I will update later
   <img alt="3D Contributions" src="https://raw.githubusercontent.com/lhnhidev/lhnhidev/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
 </picture>
 
-## 🌐 Let's get connected:
+## 🌐 Let's get connected
+
 <div align="center">
   <a href="https://discord.gg/DgTA3Hk6EE"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.facebook.com/le.hoang.nhi.404070"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
