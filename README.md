@@ -70,8 +70,8 @@ Tham gia xây dựng giao diện responsive bằng TailwindCSS + Ant Design.
 
 **1. Competition management app for students**
 - **Description**: This is a competition management software solution for schools, designed to digitise traditional competition scoring processes. It helps teachers easily record achievements, monitor class scores in real time, and view rankings, whilst also offering community features and an AI chatbot to facilitate quick data retrieval.
-- **Responsibilities**: Developed the user and admin interfaces, building core features including competition form management, marking guidelines, and class score updates. Contributed to the development of user permission settings (admin/standard user/red star). Integrated a chatbot using the Google Gemini API and real-time communication via Socket.
-- **Tech Stack**: `React`, `Typescript`, `Tailwind CSS`, `Nodejs`, `Express`, `Mongo Atlas`, `Socket`, `Ant Design`. `Cloudinary`, `Nodemailer`, `Google Generative AI`.
+- **Responsibilities (Position: Fullstack Nodejs React)**: Developed the user and admin interfaces, building core features including competition form management, marking guidelines, and class score updates. Contributed to the development of user permission settings (admin/standard user/red star). Integrated a chatbot using the Google Gemini API and real-time communication via Socket.
+- **Tech Stack**: `React`, `Typescript`, `Tailwind CSS`, `Nodejs`, `Express`, `Mongo Atlas`, `Socket`, `Ant Design`, `Cloudinary`, `Nodemailer`, `Google Generative AI`.
 - **Link repo**: [here](https://github.com/lhnhidev/app-quan-ly-thi-dua)
 
 **2. MathSpeed**
@@ -92,12 +92,19 @@ Tham gia xây dựng giao diện responsive bằng TailwindCSS + Ant Design.
 </div> -->
 
 - **Description**: Math Speed is a platform for preparing for the maths exam for students moving from Year 9 to Year 10, offering a comprehensive range of features from theory lessons and timed multiple-choice practice tests to progress tracking.
-- **Responsibilities**: Develop the user interface and admin panel, and integrate APIs for functions including registration, login and CRUD operations. Integrate PWA to deploy the application on mobile devices.
+- **Responsibilities (Position: Focus Backend Nodejs)**: Develop the user interface and admin panel, and integrate APIs for functions including registration, login and CRUD operations. Integrate PWA to deploy the application on mobile devices.
 - **Tech Stack**: `HTML`, `Tailwind CSS`, `Javascript`, `Nodejs`, `Express`, `Mongo Atlas`.
 - **Link repo**: [here](https://github.com/lhnhidev/math-speed-be)
 
-### 🏗️ Academic & Personla Projects
-I will update later
+### 🏗️ Academic & Personal Projects
+**1. Euler Cycle Virtualisation - ECV | <i>09/2025 - 12/2025<i/>** 
+- **Description**: Interactive graph theory platform for simulating and visualizing the Hierholzer algorithm in real-time. Inspired by the Seven Bridges of Königsberg puzzle. Developed for two platforms: web and desktop.
+- **Responsibilities (Position: Fullstack Nodejs React)**: Phát triển giao diện ứng dụng, xây dựng tính năng tùy chỉnh đồ thị (thêm, xóa sửa đồ thị), format màu sắc các đỉnh và cạnh. Mô phỏng thuật toán Hierholzer để tìm chu trình Euler. Phát triển logic Backend, xây dựng Chatbot hỗ trợ người dùng.
+- **Tech Stack**: `React`, `Typescript`, `Tailwind CSS`, `CodeMirror`, `CytospaceJs`,  `Nodejs`, `Express`, `Ant Design`, `Google Generative AI`.
+- **Link repo**: [here](https://github.com/lhnhidev/euler-cycle-virtualisation-ecv)
+- **Link demo**: [here](https://euler-cycle-project.vercel.app/)
+
+I will update more later
 
 ## 📊 GitHub Stats
 
