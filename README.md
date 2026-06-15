@@ -99,7 +99,7 @@ Tham gia xây dựng giao diện responsive bằng TailwindCSS + Ant Design.
 ### 🏗️ Academic & Personal Projects
 **1. Euler Cycle Virtualisation - ECV | *09/2025 - 12/2025*** 
 - **Description**: Interactive graph theory platform for simulating and visualizing the Hierholzer algorithm in real-time. Inspired by the Seven Bridges of Königsberg puzzle. Developed for two platforms: web and desktop.
-- **Responsibilities (Position: Fullstack Nodejs React)**: Phát triển giao diện ứng dụng, xây dựng tính năng tùy chỉnh đồ thị (thêm, xóa sửa đồ thị), format màu sắc các đỉnh và cạnh. Mô phỏng thuật toán Hierholzer để tìm chu trình Euler. Phát triển logic Backend, xây dựng Chatbot hỗ trợ người dùng.
+- **Responsibilities (Position: Fullstack Nodejs React)**: Develop the application interface, build custom graph features (add, delete and edit graphs), and format the colours of vertices and edges. Simulate the Hierholzer algorithm to find Eulerian cycles. Develop backend logic and build a chatbot to assist users.
 - **Tech Stack**: `React`, `Typescript`, `Tailwind CSS`, `CodeMirror`, `CytospaceJs`,  `Nodejs`, `Express`, `Ant Design`, `Google Generative AI`.
 - **Link repo**: [here](https://github.com/lhnhidev/euler-cycle-virtualisation-ecv)
 - **Link demo**: [here](https://euler-cycle-project.vercel.app/)
