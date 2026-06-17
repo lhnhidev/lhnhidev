@@ -73,6 +73,7 @@ Tham gia xây dựng giao diện responsive bằng TailwindCSS + Ant Design.
 - **Responsibilities (Position: Fullstack Nodejs React)**: Developed the user and admin interfaces, building core features including competition form management, marking guidelines, and class score updates. Contributed to the development of user permission settings (admin/standard user/red star). Integrated a chatbot using the Google Gemini API and real-time communication via Socket.
 - **Tech Stack**: `React`, `Typescript`, `Tailwind CSS`, `Nodejs`, `Express`, `Mongo Atlas`, `Socket`, `Ant Design`, `Cloudinary`, `Nodemailer`, `Google Generative AI`.
 - **Link repo**: [here](https://github.com/lhnhidev/app-quan-ly-thi-dua)
+- **Link demo**: [here](https://app-quan-ly-thi-dua.vercel.app/)
 
 **2. MathSpeed**
 <!-- <div>
