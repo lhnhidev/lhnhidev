@@ -98,18 +98,20 @@ Tham gia xây dựng giao diện responsive bằng TailwindCSS + Ant Design.
 - **Link repo**: [here](https://github.com/lhnhidev/math-speed-for-student-app)
 
 ### 🏗️ Academic & Personal Projects
-**1. Green Eco Commerce**
-i will update later 
+**1. Green Eco Commerce** <br/>
+i will update later <br/>
 **2. Euler Cycle Virtualisation - ECV | *09/2025 - 12/2025*** 
 - **Description**: Interactive graph theory platform for simulating and visualizing the Hierholzer algorithm in real-time. Inspired by the Seven Bridges of Königsberg puzzle. Developed for two platforms: web and desktop.
 - **Responsibilities (Position: Fullstack Nodejs React)**: Develop the application interface, build custom graph features (add, delete and edit graphs), and format the colours of vertices and edges. Simulate the Hierholzer algorithm to find Eulerian cycles. Develop backend logic and build a chatbot to assist users.
 - **Tech Stack**: `React`, `Typescript`, `Tailwind CSS`, `CodeMirror`, `CytospaceJs`,  `Nodejs`, `Express`, `Ant Design`, `Google Generative AI`.
 - **Link repo**: [here](https://github.com/lhnhidev/euler-cycle-virtualisation-ecv)
 - **Link demo**: [here](https://euler-cycle-project.vercel.app/)
-**3. Library Book Loan Management Application**
-i will update later
-**4. The Movie App – Software for discovering and searching for information on films and movies**
-i will update later
+<br/>
+
+**3. Library Book Loan Management Application** <br/>
+i will update later <br/>
+**4. The Movie App – Software for discovering and searching for information on films and movies** <br/>
+i will update later <br/>
 
 I will update more later
 
