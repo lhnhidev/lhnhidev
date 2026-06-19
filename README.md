@@ -96,6 +96,7 @@ Tham gia xây dựng giao diện responsive bằng TailwindCSS + Ant Design.
 - **Responsibilities (Position: Focus Backend Nodejs)**: Develop the user interface and admin panel, and integrate APIs for functions including registration, login and CRUD operations. Integrate PWA to deploy the application on mobile devices.
 - **Tech Stack**: `HTML`, `Tailwind CSS`, `Javascript`, `Nodejs`, `Express`, `Mongo Atlas`.
 - **Link repo**: [here](https://github.com/lhnhidev/math-speed-for-student-app)
+- **Link demo**: [here](https://math-speed-be.onrender.com/)
 
 ### 🏗️ Academic & Personal Projects
 **1. Green Eco Commerce** <br/>
