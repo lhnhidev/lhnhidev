@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2700&pause=1600&color=4E2CCD&center=true&vCenter=true&width=1000&height=165&lines=Welcome+To+My+Github+Profile;I'm+Le+Hoang+Nhi+-+Sotfware+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2700&pause=1600&color=4E2CCD&center=true&vCenter=true&width=1000&height=165&lines=Welcome+To+My+Github+Profile;I'm+Le+Hoang+Nhi+-+Software+Engineer)](https://git.io/typing-svg)
 
 ## 💫 About Me
 - 🔭 A Software Engineering Student from Vietnam.<br>
