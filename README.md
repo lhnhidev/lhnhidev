@@ -56,7 +56,13 @@
 
 ## 💼 Work Experience
 
-### Intern Fullstack Developer | DG External Company *(Aug 2026 - Present)*
+### 🏢 Intern Fullstack Developer | DG External Company Limited 
+*Aug 2025 – May 2026*
+* **Location:** Ho Chi Minh City, Vietnam (On-site)
+* **Main Responsibilities:**
+  * Develop and maintain key features for the web application.
+  * Optimising system performance and improving the user experience.
+* **Tech Stack:** React, Node.js.
 
 ### 💻 Freelance Web Developer (Remote)
 *Aug 2025 – May 2026*
@@ -100,7 +106,7 @@ Tham gia xây dựng giao diện responsive bằng TailwindCSS + Ant Design.
 - **Link repo**: [here](https://github.com/lhnhidev/math-speed-for-student-app)
 - **Link demo**: [here](https://math-speed-be.onrender.com/)
 
-### 🏗️ Academic & Personal Projects
+## 🏗️ Academic & Personal Projects
 **1. Green Eco Commerce** <br/>
 i will update later <br/>
 **2. Euler Cycle Virtualisation - ECV | *09/2025 - 12/2025*** 
