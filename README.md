@@ -56,6 +56,8 @@
 
 ## 💼 Work Experience
 
+### Intern Fullstack Developer | DG External Company *(Aug 2026 - Present)*
+
 ### 💻 Freelance Web Developer (Remote)
 *Aug 2025 – May 2026*
 
