@@ -56,8 +56,8 @@
 
 ## 💼 Work Experience
 
-### 🏢 Intern Fullstack Developer | DG External Company Limited 
-*Aug 2025 – May 2026*
+### 🏢 Intern Fullstack Developer | Dogo Corporation 
+*Aug 2026 – Present*
 * **Location:** Ho Chi Minh City, Vietnam (On-site)
 * **Main Responsibilities:**
   * Develop and maintain key features for the web application.
