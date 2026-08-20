@@ -62,7 +62,7 @@
 * **Main Responsibilities:**
   * Develop and maintain key features for the web application.
   * Optimising system performance and improving the user experience.
-* **Tech Stack:** React, Node.js.
+* **Tech Stack:** Ruby on Rails, Nodejs.
 
 ### 💻 Freelance Web Developer (Remote)
 *Aug 2025 – May 2026*
